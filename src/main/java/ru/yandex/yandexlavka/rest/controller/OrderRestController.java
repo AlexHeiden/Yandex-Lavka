@@ -10,7 +10,6 @@ import ru.yandex.yandexlavka.pojo.response.CreateAssignmentResponse;
 import ru.yandex.yandexlavka.rest.rate_limit.RateLimited;
 import ru.yandex.yandexlavka.service.OrderService;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @RestController
